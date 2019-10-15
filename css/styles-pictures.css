@@ -1,0 +1,30 @@
+body {
+  font-family: 'Spectral';
+  font-size: 22px;
+  text-align: center;
+  background-color: #bd830f;
+}
+
+
+img {
+  height: 500px;
+  width: 500px;
+  margin-left: 15px;
+  position: relative;
+  margin-left: 50px;
+
+}
+
+li {
+  padding-right: 0px;
+  margin-right: 0px;
+  margin-left: 150px;
+  padding-left: 10px;
+  width: 300px;
+  margin-bottom: 25px;
+  border-style: solid;
+  border-width: medium;
+  border-color: black;
+  padding-right: 300px;
+  background-color: white;
+}

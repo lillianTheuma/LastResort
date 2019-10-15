@@ -1,0 +1,11 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  background-image: url("https://goimprints.s3.amazonaws.com/images/products/7063301/temporary-large-skull-and-bones-tattoos-1.jpg");
+  background-size: cover;
+}
+
+#images img {
+  height: 500px;
+  width: 500px;
+}
